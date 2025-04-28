@@ -1,0 +1,5 @@
+components: []
+container:
+  properties: {html: <div>Hello World!</div>}
+  type: HtmlTemplate
+is_package: true

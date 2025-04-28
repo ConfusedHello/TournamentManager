@@ -2,7 +2,11 @@ unique_ids:
   assets:
     standard-page.html: GK3QCHBKTT2MBEMUNQXW66JAAIJG5KBA
     theme.css: OMH2CLEFKZMS5QM2BQ2CVGMYSR5WTB5S
-  forms: {}
+  forms:
+    frm_Dashboard: '1745805530940999279215864.1901'
+    frm_Hero: '1745805507364908354052743.7611'
+    frm_Login: '1745805139110443473900720.8178'
+    frm_Register: '1745805152954479539545504.9757'
   modules: {}
   scripts: {}
   server_modules: {}
